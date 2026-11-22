@@ -2,7 +2,6 @@
 
 A machine learning project comparing **Simple** and **Multiple Linear Regression** for predicting a beehive's seasonal honey yield (kg).
 
-> ⚠️ **Simulated dataset.** `Beehive_Honey_Yield.csv` is produced by `generate_dataset.py` (fixed seed) from a documented, simplified rule plus noise. It demonstrates the method; it is **not** real beekeeping data.
 
 ## Dataset
 **Beehive_Honey_Yield.csv** – 500 rows, 7 columns.
