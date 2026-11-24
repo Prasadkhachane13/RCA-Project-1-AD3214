@@ -24,7 +24,7 @@ A machine learning project comparing **Simple** and **Multiple Linear Regression
 | RMSE | 7.33 | 5.34 |
 | R² | 0.693 | 0.838 |
 
-5-fold CV mean R² (multiple LR): 0.805. Because the data is simulated, learned coefficients can be compared with the true generating values documented in `generate_dataset.py`.
+5-fold CV mean R² (multiple LR): 0.805. Because the data is simulated, learned coefficients can be compared with the true generating values documented in .
 
 ## Run it
 ```
